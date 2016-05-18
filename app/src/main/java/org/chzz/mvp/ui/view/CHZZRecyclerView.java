@@ -99,7 +99,7 @@ public class CHZZRecyclerView extends LinearLayout implements CHZZRefreshLayout.
         mAdapter = new NormalRecyclerViewAdapter(mDataRv, mItemLayout, mIFillDataListener);
         //自定义头
         if (null != mHeaderView)
-            mRefreshLayout.setCustomHeaderView(mHeaderView, false);
+            mRefreshLayout.setCustomHeaderView(mHeaderView, true);
         //列表数据
         CHZZMoocStyleRefreshViewHolder leftRefreshViewHolder = new CHZZMoocStyleRefreshViewHolder(mApp, true);
         leftRefreshViewHolder.setSpringDistanceScale(2);
