@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CHZZ-MVP</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="done">完成</string>
+    <string name="btn_notice">公告</string>
+
+    <string name="btn_data">资源</string>
+    <string name="btn_set">设置</string>
+    <string name="btn_search">搜索</string>
+
+    <string name="btn_ebody">宝典</string>
+    <string name="rb_search">查询</string>
+    <string name="rb_result">出科考核</string>
+    <string name="rb_outline">交流平台</string>
+    <string name="rb_all">出科提醒</string>
+    <string name="rb_set">设置</string>
+    <string name="error_userName">用户名不能为空</string>
+    <string name="error_passWord">密码不能为空</string>
+    <string name="TeachingWardRound_Title">添加教学查房</string>
+    <string name="ClinicalHistory_Title">添加病例学习</string>
+    <string name="DiagnosticReport_Title">添加拟诊报告</string>
+    <string name="SkillStudy_Title">添加技能学习</string>
+    <string name="StudyRegistration_Title">添加学习登记</string>
+    <string name="AppraisaMangaae_Title">日常测评</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnername">
+        <item>测试一</item>
+        <item> 测试二</item>
+    </string-array>
+</resources>

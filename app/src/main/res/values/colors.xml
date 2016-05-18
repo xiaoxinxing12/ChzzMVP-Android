@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3da1ff</color>
+    <color name="colorPrimaryDark">#3da1ff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="line_divide_vertical">#cfcfcf</color>
+    <!--人人中心-->
+    <color name="bg_user">#EEEEEE</color>
+    <color name="line_color">#B5B5B5</color>
+    <color name="click_color">#f4f2f2</color>
+    <color name="click_transparent">#a5000000</color>
+    <color name="red">#FF0000</color>
+    <color name="darkblue">#068DBC</color>
+    <color name="dark_blue">#0581ac</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_transparent">#00000000</color>
+    <color name="black">#4c4c4c</color>
+    <color name="gray_67">#676767</color>
+    <color name="lightgrey">#f8f8f8</color>
+    <color name="grey">#e9e9e9</color>
+    <color name="category_bg">#239dac</color>
+    <color name="line_color1">#c2c2c2</color>
+    <color name="showDividers">#e6e6e6</color>
+    <color name="hint_color">#bfbfbf</color>
+    <color name="green1">#04B619</color>
+    <color name="common_background">#fafbfd</color>
+</resources>
